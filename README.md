@@ -8,7 +8,7 @@ The inspiration came from modern personal websites of leading web designers, esp
 The color palette was carefully selected using Coolors.co to ensure a visually pleasant and cohesive design.
 
 
-##🔹 Key Features & Design Decisions
+## 🔹 Key Features & Design Decisions
 ✅ Minimalist Design: Clean layout with plenty of white space for better readability and focus.
 
 ✅ Single Page Layout.
@@ -29,7 +29,7 @@ Segoe UI, Tahoma, and other system fonts for easy-to-read body text
 
 ✅ Accessible & Clear UI: Prioritized readability, color contrast, and intuitive navigation.
 
-##🔹 Challenges Overcome
+## 🔹 Challenges Overcome
 One of the biggest challenges was ensuring responsive design across different devices.
 Some elements initially broke on smaller screens. Through careful use of flexbox, media queries, and layout restructuring, these issues were resolved to ensure consistent display.
 
